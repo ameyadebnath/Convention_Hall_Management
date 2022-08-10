@@ -1,0 +1,59 @@
+.title{
+    font-family: Lucida Handwriting;   
+    font-size: 30px;
+    
+}
+.head{
+    padding-top: 1%;
+    padding-bottom: 2%;
+    padding-right: 10%;
+    padding-left: 2%;
+    background-color: whitesmoke;
+}
+.inline{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.b1{
+    font-family: Comic Sans MS;
+    padding-top: 1%;
+    padding-left: 40%;
+   
+    font-size: 20px;
+    border:none;
+    background: none;
+    color: black;
+
+}
+.b2{
+    font-family: Comic Sans MS;
+    padding-top: 1%;
+    padding-left: 8%;
+    font-size: 20px; 
+    border:none;
+    background: none;
+    color: black;
+}
+.about{
+    padding-top: 2%;
+    padding-left: 25%;
+    padding-bottom: 3%;
+    padding-right: 25%;
+}
+.header2{
+    font-family: cursive;
+    font-size: 35px;
+    padding-bottom: 1%;
+    text-decoration-line: underline ;
+     text-decoration-style: double ;
+}
+.paragraph{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
+}
+
+.address{
+padding-left: 60%;
+padding-bottom: 30px;
+}
